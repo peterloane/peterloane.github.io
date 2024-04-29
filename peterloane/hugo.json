@@ -2,6 +2,5 @@
    "baseURL": "https://peterloane.github.io/",
    "languageCode": "en-uk",
    "title": "peterloanedotgithub.io",
-   "theme": "PaperMod",
-   "publishDir": "docs"
+   "theme": "PaperMod"
 }
