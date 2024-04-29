@@ -3,5 +3,5 @@
    "languageCode": "en-uk",
    "title": "peterloanedotgithub.io",
    "theme": "PaperMod",
-   "publishDir": "public"
+   "publishDir": "docs"
 }
