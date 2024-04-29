@@ -1,5 +1,6 @@
 {
-   "baseURL": "https://example.org/",
-   "languageCode": "en-us",
-   "title": "My New Hugo Site"
+   "baseURL": "https://peterloane.github.io/",
+   "languageCode": "en-uk",
+   "title": "peterloanedotgithub.io",
+   "theme": "PaperMod"
 }
