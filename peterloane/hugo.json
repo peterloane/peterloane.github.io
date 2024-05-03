@@ -3,5 +3,15 @@
    "languageCode": "en-uk",
    "title": "peterloanedotgithubdotio",
    "theme": "PaperMod",
-   "publishDir": "docs"
+   "publishDir": "docs",
+
+   "menu": {
+     "main": [
+      {"identifier": "home",
+       "name": "Home",
+       "url": "123",
+       "weight": 30 
+      }
+    ]
+  }
 }
