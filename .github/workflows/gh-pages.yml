@@ -8,6 +8,7 @@ on:
 
 permissions: write-all
 
+
 jobs:
   deploy:
     runs-on: ubuntu-20.04
